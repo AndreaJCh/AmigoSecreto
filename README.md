@@ -1,16 +1,26 @@
-🎁 Amigo Secreto
+🎁 Secret Friend 
 
-Este es un juego interactivo de Amigo Secreto, desarrollado con HTML, CSS y JavaScript. Permite a los usuarios agregar nombres a una lista y realizar un sorteo aleatorio para seleccionar un amigo secreto.
+Secret friend is a fun web-based game where users input names, and with a click of a button, the game randomly selects a name and displays it below. Once a name has been chosen, it will not repeat in future draws.
 
-🚀 Características
+*Features*
 
-Agregar nombres a la lista.
+Add names to a list through the input field.
+Click Sortear Amigo to randomly draw a name.
+Names are not repeated once selected.
+Simple and fun interface for playing Amigo Secreto.
 
-Evitar nombres duplicados en futuros sorteos.
+*Installation*
 
-Realizar el sorteo de manera aleatoria.
+- Clone the repository:
+  git clone https://github.com/AndreaJCh/AmigoSecreto.git
 
-Interfaz amigable con un diseño en tonos rosados.
+- Navigate to the project folder:
+  cd AmigoSecreto
 
-Posibilidad de agregar amigos presionando la tecla Enter.
+- Open the index.html file in your browser.
 
+*How to Play*
+
+Enter a name into the input field.
+Click on the Sortear Amigo button or press enter.
+The selected name will appear below and will not repeat in future draws.
